@@ -1,5 +1,13 @@
-dependencies: {}
+dependencies:
+  curry: 1.2.0
+packages:
+  /curry/1.2.0:
+    dev: false
+    resolution:
+      integrity: sha1-nm3SiVSNun5lPVrj/pA/59+zOvI=
+      tarball: 'http://registry.npmjs.org/curry/-/curry-1.2.0.tgz'
 registry: 'https://registry.npmjs.org/'
 shrinkwrapMinorVersion: 9
 shrinkwrapVersion: 3
-specifiers: {}
+specifiers:
+  curry: ^1.2.0
